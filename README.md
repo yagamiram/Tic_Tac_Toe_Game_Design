@@ -18,7 +18,7 @@ The Game controller creates the instances of two players and draws the board as 
 It triggers the game and through the instances of state, each state transition is validated after each move
 and the result are verified.
 
-Sample video of the link:
+Class Diagram:
 ![Class Diagram](http://i67.tinypic.com/208tzwx.jpg)
 
 ### Basic Template###
