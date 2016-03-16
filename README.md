@@ -112,7 +112,9 @@ class GameController(object):
         del self.player1
         del self.player2
         gc.collect() # Garbage Collector
-    
+```
+
+```
 '''
 This class maintains the state of the game
 '''
@@ -153,7 +155,9 @@ class State:
                 #  The right diagonal has same symbols
                 return True
         return False
+```
 
+```
 '''
 Maintains the player's information
 '''
